@@ -32,7 +32,7 @@ This project implements a **Bank Account Management System** as part of the Mobi
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/TomBrov/mobile-apps-hw-1.git
     ```
 2. Compile all Java files:
     ```bash
