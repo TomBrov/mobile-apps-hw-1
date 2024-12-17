@@ -22,12 +22,8 @@ This project implements a **Bank Account Management System** as part of the Mobi
     - Accounts in debt (negative balance).
     - Accounts with a balance above a specified amount.
 
----
-
 ## **Technologies Used**
 - **Java** (JDK 11 or higher)
-
----
 
 ## **How to Run**
 1. Clone the repository:
